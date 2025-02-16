@@ -1,0 +1,194 @@
+FINANCIAL PORTAL
+1. Login/Signup:Allow the user to register themselves on the platform through manual registration.
+2. Access to the centralized Financial Portal:
+When the customer registers, the customer gets redirected to a centralized financial portal which allows the user to navigate d portals present in the application based as per the subscribed ifferent membership.
+3. Real-time updates on relevant news across all financial secto rs: • User will be able to see real-time updates on relevant news across all present portals.
+4. E-Book Store:
+Access to Book Store
+Explore a diverse collection of e-books available
+Promotion and Discounts: There are no discounts on basic membership unless advertised There is 5% discount for premium membership on selected books. There is 10% discount on all books for all access membership.
+5. Webinars:
+Access to the Webinars for all members.
+Profit Webinars available as per the subscribed membership. (There is a fee charged for basic and premium membership and no fee charged for all access membership)
+6. Communities:
+Access to the Communities portal regardless to membership.
+Premium and all access has Audio and Video call features, direct messaging and can create private communities. While basic membership has only direct messaging feature and can enter in communities and cannot create them.
+
+
+USER SIDE FEATURES
+CREDIT PORTAL:
+Basic Membership:
+1. Access to foundational credit education materials.
+2. Real-time updates on credit-related news.
+3. Integration with AI for personalized credit insights.
+4. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+Premium Membership:
+1. Exclusive access to credit score monitoring.
+2. Detailed credit reports from Equifax, Experian, and TransUnion.
+3. Webinars on credit management and improvement.
+4. Community discussions on credit-related topics.
+5. Integration with AI for personalized credit insights.
+6. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+All-Access Membership:
+1. Exclusive access to credit score monitoring.
+2. Detailed credit reports from Equifax, Experian, and TransUnion.
+3. Webinars on credit management and improvement.
+4. Community discussions on credit-related topics.
+5. Full participation in credit webinars and community discussions.
+6. Ability to post thoughts, questions, and insights.
+7. Interact with other members for credit advice.
+8. Message and audio call options for members in a webinar or community.
+9. Full access to Screenflow feature.
+
+
+USER SIDE FEATURES 
+TRADING AND INVESTMENT PORTAL:
+Basic Membership:
+1. Access to basic market insights and educational content.
+2. Real-time updates on general market news.
+3. Integration with AI for personalized credit insights.
+4. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+Premium Membership:
+1. Exclusive access to advanced market analytics.
+2. Be able to invest and do trading on the application.
+3. Webinars on trading strategies and investment tips.
+4. Community discussions on market trends and stock picks.
+5. Integration with AI for personalized investment advice.
+6. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+All-Access Membership:
+1. Exclusive access to advanced market analytics.
+2. Be able to invest and do trading on the application.
+3. Webinars on trading strategies and investment tips.
+4. Full participation in trading and investment webinars.
+5. Ability to post thoughts, strategies, and analysis on webinars and communities.
+6. Engage in community discussions on investment topics.
+7. Message and audio call options for members in a webinar or community.
+8. Full access to Screenflow feature.
+9. Integration with AI for personalized credit insights.
+
+
+USER SIDE FEATURES
+MONEY MANAGEMENT PORTAL:
+Basic Membership:
+1. Access to basic budgeting and financial planning resources.
+2. Real-time updates on general financial news.
+3. Integration with AI for personalized credit insights.
+4. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+Premium Membership:
+1. Exclusive access to advanced budgeting tools and financial planning features.
+2. Be able to manage budgeting and finances within the application.
+3. Webinars on effective money management and wealth building.
+4. Community discussions on personal finance strategies.
+5. Integration with AI for personalized financial guidance.
+6. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+All-Access Membership:
+1. Exclusive access to advanced budgeting tools and financial planning features.
+2. Be able to manage budgeting and finances within the application.
+3. Full participation in money management webinars.
+4. Ability to post financial goals, tips and success stories in webinars and communities.
+5. Engage in community discussions on personal finance.
+6. Message and audio call options for members in a webinar or community.
+7. Full access to Screenflow feature.
+8. Integration with AI for personalized credit insights.
+
+
+USER SIDE FEATURES
+TAX PORTAL:
+Basic Membership:
+1. Access to basic tax education materials.
+2. Real-time updates on tax-related news.
+3. Integration with AI for personalized credit insights.
+4. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+Premium Membership:
+1. Exclusive access to personalized tax planning tools.
+2. Updates on changes in tax laws and regulations.
+3. 1 free access to Live CPA, Tax Attorney and Live EU.
+4. Community discussions on tax-related topics.
+5. Integration with AI for personalized tax guidance.
+6. Full access to Screenflow feature with advanced overlay options.
+-Customizable transparency levels for the overlay.
+-Enables users to engage in app activities while using other applications, such as video conferencing or document editing.
+-Enhances user experience for simultaneous multitasking.
+
+All-Access Membership:
+1. Exclusive access to personalized tax planning tools.
+2. Updates on changes in tax laws and regulations.
+3. 3 free access to Live CPA, Tax Attorney and Live EU.
+4. Full participation in tax webinars and community discussions.
+5. Ability to post thoughts, questions, and insights on tax matters. 6. Interact with other members for tax advice.
+7. Message and audio call options for members in a webinar or community.
+8. Full access to Screenflow feature with advanced overlay options.
+9. Integration with AI for personalized credit insights.
+
+
+ADMIN PANEL FEATURES
+1. Membership Management:
+-View and manage Basic, Premium, and All-Access members.
+-Track user activity and engagement.
+2. Content Management:
+-Monitor and update educational pages and real-time news.
+-Manage content for specialized portals.
+3. Security and Data Management:
+-Ensure data encryption and security measures.
+-Monitor and manage user data for compliance.
+4. Webinar and Community Management:
+-Moderate and manage webinars and community discussions.
+-Review and address user-reported content.
+5. Payment Gateway Integration:
+-Monitor transactions and payments.
+-Resolve payment-related issues.
+6. User Support:
+-Provide customer support for user inquiries and issues.
+-Address membership-related concerns.
+7. AI Integration Oversight:
+-Monitor and optimize AI integration across portals.
+-Ensure seamless user experience.
+8. Communication Management:
+-Oversee video and audio call functionalities.
+-Address technical issues related to communication features.
+9. Analytics and Reporting:
+-Generate reports on user activity, engagement, and portal usage.
+-Utilize analytics for continuous improvement.
+10. Compliance and Legal Management:
+-Ensure compliance with financial regulations.
+-Address legal matters and maintain transparency.
+
+
+DEVELOPMENT KEYS
+MOBILE APPLICATIONS:
+Front-End: React Native 
+Back-End: Node JS 
+Database: Firebase/mySQL/Mongo DB
+
+ADMIN PANEL:
+Front-End: HTML/CSS
+Back-End: Javascript
+Database: Firebase/mySQL/Mongo DB 
